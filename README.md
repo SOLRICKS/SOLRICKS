@@ -37,8 +37,8 @@ Selected models and LoRAs for AI video and image production.
 
 | Workflow | Use Case |
 | --- | --- |
-| [MiniMax H3 FLF — V2](https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/MiniMax_H3_FLF_V2.json) | FLF workflow for the 3D Animation Style LoRA. |
-| [MiniMax H3 R2V — V2](https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/MiniMax_H3_R2V_V2.json) | R2V workflow for the 3D Animation Style LoRA. |
+| [MiniMax H3 FLF — V2](https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/MiniMax_H3_FLF_V2.json) | FLF workflow for MiniMax H3. |
+| [MiniMax H3 R2V — V2](https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/MiniMax_H3_R2V_V2.json) | R2V workflow for MiniMax H3. |
 | [LTX-2.5 T2V / I2V + Audio — V2](https://huggingface.co/SOLRICKS/LTX-2-5-ComfyUI-Workflows/blob/main/LTX-2.5_T2V_I2V_Audio-V2.json) | Text-to-video and image-to-video generation with audio. |
 | [LTX-2.5 T2V / I2V + Audio — Dev](https://huggingface.co/SOLRICKS/LTX-2-5-ComfyUI-Workflows/blob/main/LTX-2.5_T2V_I2V_Audio-Dev.json) | Dev workflow for text-to-video and image-to-video with audio. |
 | [LTX-2.5 V2V Upscaler](https://huggingface.co/SOLRICKS/LTX-2-5-ComfyUI-Workflows/blob/main/LTX-2.5-V2V-Upscaler.json) | Video-to-video upscaling and refinement. |
