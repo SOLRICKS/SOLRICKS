@@ -24,7 +24,7 @@ ComfyUI nodes for video anti-aliasing, temporal stabilization, detail refinement
 
 Selected models and LoRAs for AI video and image production.
 
-| Model / LoRA | Focus |
+| LoRAs / Models | Style |
 | --- | --- |
 | [3D Animation Style — MiniMax H3](https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3) | Stylized 3D animation for text-to-video and image-to-video. |
 | [BTS Movie Set — LTX-2.5](https://huggingface.co/SOLRICKS/LTX-2.5-BTS-Movie-Set) | Film sets, production equipment, and behind-the-scenes visuals. |
@@ -35,7 +35,7 @@ Selected models and LoRAs for AI video and image production.
 
 ## ComfyUI Workflows
 
-| Workflow | Use case |
+| Workflow | Use Case |
 | --- | --- |
 | [MiniMax H3 FLF — V2](https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/MiniMax_H3_FLF_V2.json) | FLF workflow for the 3D Animation Style LoRA. |
 | [MiniMax H3 R2V — V2](https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/MiniMax_H3_R2V_V2.json) | R2V workflow for the 3D Animation Style LoRA. |
