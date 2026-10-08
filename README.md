@@ -1,4 +1,4 @@
-# SOLRICKS — AI Video Tools & Models
+# AI Video Tools & Models
 
 We build ComfyUI tools, custom AI models, and practical workflows for cinematic AI production.
 
