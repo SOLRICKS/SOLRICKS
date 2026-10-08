@@ -66,6 +66,10 @@ Selected models and LoRAs for AI video and image production.
       <td>R2V workflow for MiniMax H3.</td>
     </tr>
     <tr>
+      <td><a href="https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/MiniMax_H3_R2V_ControlNet_V2.json">MiniMax H3 R2V ControlNet — V2</a></td>
+      <td>R2V ControlNet workflow for MiniMax H3.</td>
+    </tr>
+    <tr>
       <td><a href="https://huggingface.co/SOLRICKS/LTX-2-5-ComfyUI-Workflows/blob/main/LTX-2.5_T2V_I2V_Audio-V2.json">LTX-2.5 T2V / I2V + Audio — V2</a></td>
       <td>Distilled workflow for T2V and I2V generation with audio.</td>
     </tr>
