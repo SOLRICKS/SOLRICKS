@@ -31,7 +31,7 @@ Selected models and LoRAs for AI video and image production.
       <td>Stylized 3D animation for T2V and I2V.</td>
     </tr>
     <tr>
-      <td><a href="https://huggingface.co/SOLRICKS/LTX-2.5-BTS-Movie-Set">BTS Movie Set — LTX-2.5</a></td>
+      <td><a href="https://civitai.com/models/2941912/bts-movie-set">BTS Movie Set — MiniMax H3</a></td>
       <td>Film sets, production equipment, and behind-the-scenes visuals.</td>
     </tr>
     <tr>
