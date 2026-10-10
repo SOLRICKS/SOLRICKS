@@ -27,6 +27,10 @@ Selected models and LoRAs for AI video and image production.
 <table>
   <tbody>
     <tr>
+      <td><a href="https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/minimax_h3_fl2v_turbo_8step_v1.0_comfyui_fp8.safetensors">MiniMax H3 Turbo 8-Step — FP8</a></td>
+      <td>FP8-converted 8-step Turbo LoRA for ComfyUI. For FLF2V generation and experimental Ref2V use.</td>
+    </tr>
+    <tr>
       <td><a href="https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3">3D Animation Style — MiniMax H3</a></td>
       <td>Stylized 3D animation for T2V and I2V.</td>
     </tr>
