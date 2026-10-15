@@ -2,16 +2,6 @@
 
 We build ComfyUI tools, custom AI models, and practical workflows for cinematic AI production.
 
-### 🛠 Tech Stack:
-
-[![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![COMFYUI](https://img.shields.io/badge/COMFYUI-FF9800?style=for-the-badge&logo=comfyui&logoColor=white)](https://github.com/comfyanonymous/ComfyUI)
-[![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/)
-[![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
-[![COMPUTER VISION](https://img.shields.io/badge/COMPUTER_VISION-5C5C5C?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![REAL-TIME GFX](https://img.shields.io/badge/REAL--TIME%20GFX-6F42C1?style=for-the-badge&logo=vulkan&logoColor=white)](https://www.khronos.org/vulkan/)
-
 ---
 
 ### 🚀 Custom Nodes
