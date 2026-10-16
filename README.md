@@ -93,5 +93,3 @@ Selected LoRA models for AI video and image production.
     </tr>
   </tbody>
 </table>
-
-Explore more: [Hugging Face](https://huggingface.co/SOLRICKS) · [Civitai](https://civitai.com/user/Solricks)
