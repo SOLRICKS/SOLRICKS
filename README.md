@@ -10,9 +10,9 @@ We build ComfyUI tools, custom AI models, and practical workflows for cinematic 
 
 ComfyUI nodes for video anti-aliasing, temporal stabilization, detail refinement, and cinematic effects.
 
-### Models & LoRAs
+### LoRA Models
 
-Selected models and LoRAs for AI video and image production.
+Selected LoRA models for AI video and image production.
 
 <table>
   <tbody>
@@ -47,7 +47,7 @@ Selected models and LoRAs for AI video and image production.
   </tbody>
 </table>
 
-### ComfyUI Workflows
+### Workflows
 
 <table>
   <tbody>
