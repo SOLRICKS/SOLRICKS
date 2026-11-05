@@ -1,4 +1,4 @@
-# AI Video Tools & Models
+# AI Tools & Models
 
 We build ComfyUI tools, custom AI models, and practical workflows for cinematic AI production.
 
