@@ -8,7 +8,7 @@ We build ComfyUI tools, custom AI models, and practical workflows for cinematic 
 
 #### [MiniMax H3 Upscaler](https://github.com/SOLRICKS/comfyui-solricks)
 
-ComfyUI nodes for video upscaling and detail refinement, with temporal chunking, spatial tiling, and the INT8 refiner.
+A ComfyUI node for video upscaling and detail refinement, with temporal chunking, spatial tiling, and the INT8 refiner.
 
 ---
 
