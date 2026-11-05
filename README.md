@@ -14,7 +14,7 @@ A ComfyUI node for video upscaling and detail refinement, with temporal chunking
 
 #### [Video Anti-Aliasing](https://github.com/SOLRICKS/comfyui-solricks)
 
-ComfyUI nodes for video anti-aliasing, temporal stabilization, detail refinement, and cinematic effects.
+A ComfyUI node for video anti-aliasing, temporal stabilization, detail refinement, and cinematic effects.
 
 ---
 
