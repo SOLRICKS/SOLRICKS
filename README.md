@@ -4,37 +4,19 @@ We build ComfyUI tools, custom AI models, and practical workflows for cinematic 
 
 ---
 
-### [MiniMax H3 Upscaler](https://github.com/SOLRICKS/comfyui-solricks)
+### 🚀 Custom Nodes
 
-Video upscaling and detail refinement for ComfyUI, with temporal chunking, spatial tiling, and the experimental SOLRICKS INT8 refiner.
+#### [MiniMax H3 Upscaler](https://github.com/SOLRICKS/comfyui-solricks)
 
-<table>
-  <thead>
-    <tr><th>Before — 1376×768</th><th>After — MiniMax H3 Upscaler · 1952×1088</th></tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%"><video controls playsinline preload="metadata" width="100%" src="https://github.com/user-attachments/assets/5177d194-77af-4bbd-99d4-5f116a9997e7"></video></td>
-      <td width="50%"><video controls playsinline preload="metadata" width="100%" src="https://github.com/user-attachments/assets/2ddd1845-8f32-461d-9363-934b31840b66"></video></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://huggingface.co/SOLRICKS/MiniMax-H3-Upscaler/resolve/main/Minimax_H3_I2V.mp4">Open original video</a></td>
-      <td align="center"><a href="https://huggingface.co/SOLRICKS/MiniMax-H3-Upscaler/resolve/main/Minimax-H3-Upscaler.mp4">Open upscaled video</a></td>
-    </tr>
-  </tbody>
-</table>
-
-*AI-generated source and upscaled output. Both clips: 243 frames, 24 FPS, 10.125 seconds. Web previews are compressed for GitHub playback. The links above open the full-quality MP4 files on Hugging Face.*
-
-[Node and documentation](https://github.com/SOLRICKS/comfyui-solricks) · [Hugging Face models and workflows](https://huggingface.co/SOLRICKS/MiniMax-H3-Upscaler)
+ComfyUI nodes for video upscaling and detail refinement, with temporal chunking, spatial tiling, and the experimental SOLRICKS INT8 refiner.
 
 ---
 
-### 🚀 Custom Nodes
-
-#### [ComfyUI Video Anti-Aliasing Pack](https://github.com/SOLRICKS/comfyui-solricks)
+#### [Video Anti-Aliasing](https://github.com/SOLRICKS/comfyui-solricks)
 
 ComfyUI nodes for video anti-aliasing, temporal stabilization, detail refinement, and cinematic effects.
+
+---
 
 ### LoRA Models
 
