@@ -20,7 +20,7 @@ A ComfyUI node for video anti-aliasing, temporal stabilization, detail refinemen
 
 ### LoRA Models
 
-Selected LoRA models for AI video and image production.
+Download LoRA models and workflows for AI video and image production from Hugging Face.
 
 <table>
   <tbody>
