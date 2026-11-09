@@ -4,7 +4,7 @@ We build ComfyUI tools, custom AI models, and practical workflows for cinematic 
 
 ---
 
-### 🚀 Custom Nodes
+### Custom Nodes
 
 #### [MiniMax H3 Upscaler](https://github.com/SOLRICKS/comfyui-solricks)
 
