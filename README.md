@@ -60,28 +60,24 @@ Selected LoRA models for AI video and image production.
 <table>
   <tbody>
     <tr>
-      <td><a href="https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/MiniMax_H3_FLF_V2.json">MiniMax H3 FLF — V2</a></td>
+      <td><a href="https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/SOLRICKS_MiniMaxH3_Workflows_T2V_I2V_FLF_Ref2V_V3_AllWorkflows/MiniMax%20H3%20FLF%20V3.json">MiniMax H3 FLF — V3</a></td>
       <td>FLF workflow for MiniMax H3.</td>
     </tr>
     <tr>
-      <td><a href="https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/MiniMax_H3_R2V_ControlNet_V2.json">MiniMax H3 R2V ControlNet — V2</a></td>
+      <td><a href="https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/SOLRICKS_MiniMaxH3_Workflows_T2V_I2V_FLF_Ref2V_V3_AllWorkflows/MiniMax%20H3%20V2V%20ControlNet%20V3.json">MiniMax H3 R2V ControlNet — V3</a></td>
       <td>R2V ControlNet workflow for MiniMax H3.</td>
     </tr>
     <tr>
-      <td><a href="https://huggingface.co/SOLRICKS/LTX-2-5-ComfyUI-Workflows/blob/main/LTX-2.5_T2V_I2V_Audio-Dev.json">LTX-2.5 T2V / I2V + Audio — Dev</a></td>
-      <td>Dev workflow for T2V and I2V generation with audio.</td>
+      <td><a href="https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/SOLRICKS_MiniMaxH3_Workflows_T2V_I2V_FLF_Ref2V_V3_AllWorkflows/MiniMax%20H3%20Image%20to%20Video%20V3.json">I2V workflow for MiniMax H3.</a></td>
+      <td>I2V generation with audio MiniMax H3.</td>
     </tr>
     <tr>
-      <td><a href="https://huggingface.co/SOLRICKS/LTX-2-5-ComfyUI-Workflows/blob/main/LTX-2.5-V2V-Upscaler.json">LTX-2.5 V2V Upscaler</a></td>
-      <td>V2V upscaling and refinement.</td>
+      <td><a href="https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/SOLRICKS_MiniMaxH3_Workflows_T2V_I2V_FLF_Ref2V_V3_AllWorkflows/MiniMax%20H3%20Text%20to%20Video%20V3.json">T2V workflow for MiniMax H3.</a></td>
+      <td>T2V generation with audio MiniMax H3.</td>
     </tr>
     <tr>
-      <td><a href="https://huggingface.co/SOLRICKS/LTX-2-5-ComfyUI-Workflows/blob/main/LTX-2.5-ICLoRA-Ingredients-Two-Stage-V2.json">LTX-2.5 Ingredients — Two-Stage V2</a></td>
-      <td>Two-stage Ingredients workflow.</td>
-    </tr>
-    <tr>
-      <td><a href="https://huggingface.co/SOLRICKS/LTX-2-5-ComfyUI-Workflows/blob/main/LTX-2.5-ReTake-Green-Screen-Composite-V2.json">LTX-2.5 ReTake — Green Screen Composite V2</a></td>
-      <td>ReTake workflow for green-screen compositing.</td>
+      <td><a href="https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3/blob/main/SOLRICKS_MiniMaxH3_Workflows_T2V_I2V_FLF_Ref2V_V3_AllWorkflows/MiniMax%20H3%20Reference%20to%20Video%20V3.json">R2V workflow for MiniMax H3.</a></td>
+      <td>R2V workflow for MiniMax H3.</td>
     </tr>
   </tbody>
 </table>
