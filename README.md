@@ -1,6 +1,6 @@
 # AI Tools & Models
 
-We develop AI tools, custom models, and workflows for cinematic AI production and video processing.
+We develop AI tools, custom nodes, and AI models for cinematic production and video processing.
 
 ---
 
