@@ -8,13 +8,13 @@ We develop AI tools, custom models, and workflows for cinematic AI production an
 
 #### [MiniMax H3 Upscaler](https://github.com/SOLRICKS/comfyui-solricks)
 
-Enhance video resolution and fine details with MiniMax H3, featuring temporal chunking, spatial tiling, and INT8-based refinement for efficient upscaling.
+Improve video resolution and fine details with MiniMax H3 technology featuring temporal chunking, spatial tiling, and refinement for efficient upscaling.
 
 ---
 
 #### [Video Anti-Aliasing](https://github.com/SOLRICKS/comfyui-solricks)
 
-Improve visual quality with temporal anti-aliasing, motion-aware stabilization, and edge-preserving detail refinement for cleaner, smoother, and more consistent video output.
+Enhance visual quality with anti-aliasing, motion-aware stabilization, and edge-preserving detail enhancement to achieve cleaner, smoother, and more consistent video output.
 
 ---
 
