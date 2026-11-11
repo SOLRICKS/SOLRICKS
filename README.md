@@ -12,7 +12,7 @@ Improve video resolution and fine details with MiniMax H3 technology featuring t
 
 ---
 
-### [GB10-Attn](https://github.com/SOLRICKS/comfyui-solricks)
+#### [GB10-Attn](https://github.com/SOLRICKS/comfyui-solricks)
 
 Optimize attention performance for NVIDIA GB10 Grace Blackwell systems using native sparse attention, configurable quality and speed profiles, and automatic compatibility fallback.
 
