@@ -1,6 +1,6 @@
 # AI Tools & Models
 
-We build ComfyUI tools, custom AI models, and practical workflows for cinematic AI production.
+We develop AI tools, custom models, and production-ready workflows for cinematic content creation, video processing, and generative AI.
 
 ---
 
