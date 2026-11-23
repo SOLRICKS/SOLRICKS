@@ -1,6 +1,6 @@
 # AI Systems & GPU Automation
 
-We develop AI systems, custom generative models, GPU-optimized inference tools, and end-to-end workflows for AI production.
+We develop custom generative models, GPU-optimized inference tools, and end-to-end workflows for AI production.
 
 ---
 
@@ -14,7 +14,7 @@ Custom optimization tools for generative AI, video processing, and modern GPU ar
 | **[GB10-Attn](https://github.com/SOLRICKS/comfyui-solricks)** | Attention optimization for NVIDIA GB10 Grace Blackwell systems. |
 | **[Video Anti-Aliasing](https://github.com/SOLRICKS/comfyui-solricks)** | Motion-aware stabilization, temporal anti-aliasing, and detail enhancement. |
 
-**[Explore the comfyui-solricks Optimization Pack →](https://github.com/SOLRICKS/comfyui-solricks)**
+**[Explore the ComfyUI Optimization Pack →](https://github.com/SOLRICKS/comfyui-solricks)**
 
 ---
 
