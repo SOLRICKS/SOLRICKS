@@ -18,5 +18,5 @@ Custom optimization tools for generative AI, video processing, and modern GPU ar
 
 ---
 
-### Design. Build. Deploy.
+### Build. Optimize. Deploy.
 **[Explore Models, Workflows & Research on Hugging Face →](https://huggingface.co/SOLRICKS)**
